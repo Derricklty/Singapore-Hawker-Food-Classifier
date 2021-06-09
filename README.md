@@ -69,4 +69,4 @@ When analysing the above confusion matrix, we noticed that our ResNet50 model te
 ## Future Work
 Apart from collecting more images (per class) to overcome our limitations, we can also expand the coverage of our image classifier to include more hawker food classes. This will improve the comprehensiveness of our model. 
 
-In terms of practical usage, we can collaborate with MCCY and NHB to deploy our model in their Our Singapore Heritage website to ensure that photo contributions are accurately tagged. To facilitate tourists in distinguishing between the various hawker food classes, we can also work to deploy our image classifer in an app so that they can easily upload images for prediction.
+In terms of practical usage, we can collaborate with MCCY and NHB to deploy our model in their Our Singapore Heritage website to ensure that photo contributions are accurately tagged. To facilitate tourists in distinguishing between the various hawker food classes, we can also work to deploy our image classifier in an app so that they can easily upload images for prediction.
