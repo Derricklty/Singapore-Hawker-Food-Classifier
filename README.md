@@ -64,7 +64,7 @@ Based on our evaluation metrics, we ultimately decided to go with **ResNet50** a
 From the confusion matrix above, we can observe that our ResNet50 model is generally good at predicting the correct classes since Bak Chor Mee (despite having the lowest accuracy amongst all food classes) has 146/200 images correctly classified.
 
 ## Limitations
-When analysing the above confusion matrix, we noticed that our ResNet50 model tends to struggle with noodle-related images (e.g. 17 Bak Chor Mee images inaccurately prediced as Laksa or 14 Hokkien Prawn Mee images as Laksa). This phenomenon is also observed in other models that we have built. To overcome this and as a possible extension to our project, we can consider collecting and training our CNN model on even more images so that it gets better at recognising and predicting noodle-related images.
+When analysing the above confusion matrix, we noticed that our ResNet50 model tends to struggle with noodle-related images (e.g. 17 Bak Chor Mee images inaccurately predicted as Laksa or 14 Hokkien Prawn Mee images as Laksa). This phenomenon is also observed in other models that we have built. To overcome this and as a possible extension to our project, we can consider collecting and training our models on even more images so that they get better at recognising and predicting noodle-related images.
 
 ## Future Work
 Apart from collecting more images (per class) to overcome our limitations, we can also expand the coverage of our image classifier to include more hawker food classes. This will improve the comprehensiveness of our model. 
